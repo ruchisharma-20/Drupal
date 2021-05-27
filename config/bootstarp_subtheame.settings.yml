@@ -1,0 +1,31 @@
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: 'http://localhost/drupal8/themes/bootstarp_subtheame/favicon.ico'
+  use_default: 1
+schemas:
+  bootstrap: 8000
+  bootstarp_subtheame: 8000
+features:
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+  node_user_picture: 1
+logo:
+  path: 'public://logo.png'
+  url: ''
+  use_default: 1
+region_wells:
+  header: ''
+  navigation: ''
+  slider: ''
+  navigation_collapsible: ''
+  highlighted: ''
+  help: ''
+  content: ''
+  sidebar_first: ''
+  sidebar_second: well
+  footer: ''
+cdn_theme: united
+reset_http_request_cache: ''
+table: ''

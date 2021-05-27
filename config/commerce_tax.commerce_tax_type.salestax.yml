@@ -1,0 +1,9 @@
+uuid: ccb8ec99-b02f-4afc-ac45-53a8feee98e3
+langcode: en
+status: true
+dependencies: {  }
+id: salestax
+label: salesTax
+plugin: canadian_sales_tax
+configuration:
+  display_inclusive: true

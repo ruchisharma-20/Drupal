@@ -1,0 +1,19 @@
+uuid: 90f35d20-292b-4470-a98f-32acf937789e
+langcode: en
+status: true
+dependencies: {  }
+id: online_payment
+label: 'Online payment'
+weight: null
+plugin: manual
+configuration:
+  instructions:
+    value: ''
+    format: plain_text
+  display_label: Manual
+  mode: n/a
+  payment_method_types:
+    - credit_card
+  collect_billing_information: true
+conditions: {  }
+conditionOperator: AND

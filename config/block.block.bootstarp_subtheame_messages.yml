@@ -1,0 +1,22 @@
+uuid: bdf5c8d1-3724-40bf-b22f-74493f908528
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bootstarp_subtheame
+_core:
+  default_config_hash: 9RnnTUBcn0WRWXfrGOnId2H0Q31uQUeu_F5TnDxl2yg
+id: bootstarp_subtheame_messages
+theme: bootstarp_subtheame
+region: header
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,30 @@
+uuid: 57541976-c1c2-4e54-ba4f-e44f56221219
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.slider
+  module:
+    - system
+    - views
+  theme:
+    - bootstarp_subtheame
+id: views_block__slider_block_1
+theme: bootstarp_subtheame
+region: slider
+weight: 0
+provider: null
+plugin: 'views_block:slider-block_1'
+settings:
+  id: 'views_block:slider-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

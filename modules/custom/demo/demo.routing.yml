@@ -1,0 +1,7 @@
+demo.test_form:
+  path: '/test/form'
+  defaults:
+    _form: '\Drupal\demo\Form\TestForm'
+    _title: 'TestForm'
+  requirements:
+    _access: 'TRUE'

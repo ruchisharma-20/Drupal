@@ -1,0 +1,10 @@
+uuid: c5afd30f-821e-4ce7-95ea-c5c0cf83bfce
+langcode: en
+status: true
+dependencies: {  }
+id: red
+label: 'Iphone apple'
+orderItemType: default
+generateTitle: false
+traits: {  }
+locked: false

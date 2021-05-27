@@ -1,0 +1,22 @@
+uuid: bdc6ff88-80b6-4ac1-a0c7-6c0d8562b9e5
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bootstarp_subtheame
+_core:
+  default_config_hash: qHdtze2DZ2mFfaJadxjZz6epm92_SN9SAFY4yJGl8Fo
+id: bootstarp_subtheame_local_tasks
+theme: bootstarp_subtheame
+region: header
+weight: -3
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

@@ -1,0 +1,11 @@
+uuid: 96b8e94e-fbc8-4dc0-a423-1a02109cfc51
+langcode: en
+status: true
+dependencies:
+  config:
+    - commerce_product.commerce_product_type.iphone
+id: commerce_product.iphone
+target_entity_type_id: commerce_product
+target_bundle: iphone
+default_langcode: site_default
+language_alterable: false

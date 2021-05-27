@@ -1,0 +1,14 @@
+uuid: 7fa60a84-e8b6-4fd1-80c7-4f18b197adb2
+name: Vodafone
+mail: ruchi.sharma1720@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

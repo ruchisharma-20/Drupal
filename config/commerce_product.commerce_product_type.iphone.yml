@@ -1,0 +1,12 @@
+uuid: c5b49dbd-768b-4d61-8672-1727604e4a1f
+langcode: en
+status: true
+dependencies: {  }
+id: iphone
+label: Iphone
+description: ''
+variationType: red
+multipleVariations: true
+injectVariationFields: true
+traits: {  }
+locked: false
